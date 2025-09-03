@@ -1,1 +1,2 @@
 # To-Do-List-web-Laravel
+This is a simple To-Do List web application built with Laravel. It allows users to create, edit, and delete tasks, as well as mark them as completed. The project is designed to help organize daily activities in a clean and efficient way, with a responsive user interface and secure authentication. It can be used as a personal productivity tool or as a base project to learn and practice Laravel development.
